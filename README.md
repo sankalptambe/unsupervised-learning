@@ -13,6 +13,6 @@
   * Finding optimal no. of clusters
 * DBSCAN
 * Gaussian Mixtures
- * Anomaly Detection using Gaussian Mixtures
- * Selecting the number of clusters
- * Bayesian Gaussian Mixture Models
+  * Anomaly Detection using Gaussian Mixtures
+  * Selecting the number of clusters
+  * Bayesian Gaussian Mixture Models
